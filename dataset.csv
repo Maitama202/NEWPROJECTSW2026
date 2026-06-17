@@ -1,0 +1,6 @@
+
+age,fever,cough,fatigue,disease
+25,1,1,1,flu
+40,1,0,1,malaria
+35,0,1,0,diabetes
+50,1,1,1,pneumonia
